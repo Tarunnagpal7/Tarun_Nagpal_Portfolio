@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Tarun_Nagpal_Portfolio/static/css/main.4aaa9b79.css",
+    "main.js": "/Tarun_Nagpal_Portfolio/static/js/main.1ecce9af.js",
+    "static/media/Image.jpg": "/Tarun_Nagpal_Portfolio/static/media/Image.ffd7fa53e8c03f3952c7.jpg",
+    "index.html": "/Tarun_Nagpal_Portfolio/index.html",
+    "main.4aaa9b79.css.map": "/Tarun_Nagpal_Portfolio/static/css/main.4aaa9b79.css.map",
+    "main.1ecce9af.js.map": "/Tarun_Nagpal_Portfolio/static/js/main.1ecce9af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4aaa9b79.css",
+    "static/js/main.1ecce9af.js"
+  ]
+}
