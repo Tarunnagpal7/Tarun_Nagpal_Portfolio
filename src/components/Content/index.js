@@ -147,7 +147,7 @@ const Contact = () => {
       <Wrapper>
         <Title>Contact</Title>
         <Desc>Feel free to reach out to me for any questions or opportunities!</Desc>
-        <ContactTitle>Email Me : tarunnagpal192004@gmail.com</ContactTitle>
+        <ContactTitle>     tarunnagpal192004@gmail.com    </ContactTitle>
         {/* <ContactForm ref={form} onSubmit={handleSubmit}>
           <ContactTitle>Email Me 🚀</ContactTitle>
           <ContactInput placeholder="Your Email" name="from_email" />
