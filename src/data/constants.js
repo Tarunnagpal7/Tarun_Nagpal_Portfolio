@@ -9,7 +9,7 @@ export const Bio = {
       "I am an enthusiastic and adaptable individual who welcomes new challenges with open arms. Driven by a strong passion for continuous learning, I am committed to consistently delivering exceptional results. Fueled by a positive outlook and a growth-oriented mindset, I am fully prepared to make a significant impact and accomplish remarkable feats.",
     github: "https://github.com/Tarunnagpal7",
     resume:
-      "https://docs.google.com/document/d/18zS7v7RSnCHBOJCiZVDYcBhydg0Uyw3H/edit?usp=drive_link&ouid=107656524041605427209&rtpof=true&sd=true",
+      "https://drive.google.com/file/d/1Rp5YB47Jd-Hpccyn0j3pHeS9wYc4_eU0/view?usp=sharing";
     linkedin: "https://www.linkedin.com/in/tarun-nagpal-b0b792254/",
     insta: "https://www.instagram.com/tarunnnagpal/",
   };
